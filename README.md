@@ -40,6 +40,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Free Dictionary API](https://dictionaryapi.dev/) - Dictionary REST API
 - [React Icons](https://react-icons.github.io/react-icons/) - Free Icon to use with React
+- [Uxwing](https://uxwing.com/) - For website Icon
 
 ### What I learned
 
