@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/DarmaPutra55/frontend-mentor-news-homepage)
+- Solution URL: (https://github.com/DarmaPutra55/frontend-mentor-dictionary/)
 - Live Site URL: (https://darma-english-dictionary.netlify.app/)
 
 ## My process
